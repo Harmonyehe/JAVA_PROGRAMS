@@ -5,22 +5,24 @@ public class GettingInput {
         System.out.println("Enter name:");
         String name=obj.nextLine();
         
-        Scanner obj1=new Scanner(System.in);
+        
         System.out.println("Enter register no:");
-        int reg=obj1.nextInt();
+        int reg=obj.nextInt();
         
-        Scanner obj2=new Scanner(System.in);
+        
         System.out.println("Enter Cgpa: ");
-        float cgpa=obj2.nextFloat();
+        float cgpa=obj.nextFloat();
         
-        Scanner ob3=new Scanner(System.in);
+      
         System.out.println("Enter Grade: ");
-        char a=ob3.next().charAt(0);
+        char a=obj.next().charAt(0);
         
         System.out.println("Name is: "+name);
         System.out.println("Registernumber: "+reg);
         System.out.println("Cgpa is: "+cgpa);
         System.out.println("Grade is: "+a);
+
+        obj.close();
     }
 }
 

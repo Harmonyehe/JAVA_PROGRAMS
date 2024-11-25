@@ -15,5 +15,7 @@ public class ArithemeticOperations {
         System.out.println("Multiplication "+mul);
         int div=aa/bb;
         System.out.println("Divition "+div);
+        a.close();
+        b.close();
     }
 }

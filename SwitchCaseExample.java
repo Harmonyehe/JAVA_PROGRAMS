@@ -25,7 +25,7 @@ public class SwitchCaseExample{
 		}else{
 			System.out.println("Cannot divide with zero");
 		}
-	        break;5
+	        break;
 	    case "%":
 		if(b!=0){
 	        System.out.println(a%b);
