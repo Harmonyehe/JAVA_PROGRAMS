@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArithemeticOperations",
+            "request": "launch",
+            "mainClass": "ArithemeticOperations",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "CheckIfStringIsPalindrome",
+            "request": "launch",
+            "mainClass": "CheckIfStringIsPalindrome",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "CountVandC",
+            "request": "launch",
+            "mainClass": "CountVandC",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "GettingInput",
+            "request": "launch",
+            "mainClass": "GettingInput",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "SecondLargestNum",
+            "request": "launch",
+            "mainClass": "SecondLargestNum",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCaseExample",
+            "request": "launch",
+            "mainClass": "SwitchCaseExample",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "divima",
+            "request": "launch",
+            "mainClass": "divima",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "squarePattern",
+            "request": "launch",
+            "mainClass": "squarePattern",
+            "projectName": "JAVA_a0b8761b"
+        }
+    ]
+}
