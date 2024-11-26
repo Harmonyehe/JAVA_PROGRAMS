@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hollowTriangle",
+            "request": "launch",
+            "mainClass": "hollowTriangle",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "rightTrianglePattern",
+            "request": "launch",
+            "mainClass": "rightTrianglePattern",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "hollowSquarePattern",
+            "request": "launch",
+            "mainClass": "hollowSquarePattern",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "trianglePattern",
+            "request": "launch",
+            "mainClass": "trianglePattern",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
