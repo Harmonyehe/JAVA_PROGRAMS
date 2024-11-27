@@ -14,10 +14,10 @@ public class hollowSquarePattern {
                     System.out.print("   ");
                 }
             }System.out.println();
+
         }
-
-
-    }
+        sc.close();
+}
 
     
 }

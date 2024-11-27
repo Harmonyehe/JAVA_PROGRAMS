@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FlippedTrianglepattern",
+            "request": "launch",
+            "mainClass": "FlippedTrianglepattern",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "Sist",
+            "request": "launch",
+            "mainClass": "Sist",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
             "name": "hollowTriangle",
             "request": "launch",
             "mainClass": "hollowTriangle",
