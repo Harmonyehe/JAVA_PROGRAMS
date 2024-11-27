@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "rail",
+            "request": "launch",
+            "mainClass": "rail",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "constructorAddition",
+            "request": "launch",
+            "mainClass": "constructorAddition",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
             "name": "Constructor_biriyaniEx",
             "request": "launch",
             "mainClass": "Constructor_biriyaniEx",
