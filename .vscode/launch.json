@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Constructor_biriyaniEx",
+            "request": "launch",
+            "mainClass": "Constructor_biriyaniEx",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "flippedEquilateralTriangle",
+            "request": "launch",
+            "mainClass": "flippedEquilateralTriangle",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "equilateralTriangle",
+            "request": "launch",
+            "mainClass": "equilateralTriangle",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
             "name": "FlippedTrianglepattern",
             "request": "launch",
             "mainClass": "FlippedTrianglepattern",
