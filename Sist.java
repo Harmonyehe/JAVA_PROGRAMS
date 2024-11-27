@@ -2,17 +2,17 @@
 class Cse {
     int fans;
     int stud;
-    void fan(int speed){
-        System.out.println("Fan is rotating in speed of"+speed);
+    void fans(int speed){
+        System.out.println("Fan is rotating in speed of "+speed);
     }
     void lights(){
-        System.out.println("Lights are on");
+        System.out.println("Lights are on ");
     }
     void projector(){
-        System.out.println("Projector is on");
+        System.out.println("Projector is on ");
     }
     void students(){
-        System.out.println(stud+"Students are present");
+        System.out.println(stud+" Students are present ");
     }
 }
 public class Sist{
@@ -21,8 +21,8 @@ public class Sist{
         Cse C451=new Cse();
         C450.fans=8;
         C451.fans=6;
-        C450.fans(speed:3);
-        C451.fans(speed:4);
+        C450.fans( 3);
+        C451.fans( 4);
         C450.stud=44;
         C451.stud=30;
         C450.students();
