@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pyramidPattern",
+            "request": "launch",
+            "mainClass": "pyramidPattern",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "numberSquare",
+            "request": "launch",
+            "mainClass": "numberSquare",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "numberSquare2",
+            "request": "launch",
+            "mainClass": "numberSquare2",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "numberTriangle",
+            "request": "launch",
+            "mainClass": "numberTriangle",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "invertedHollowTriangle",
+            "request": "launch",
+            "mainClass": "invertedHollowTriangle",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "PatternLikePlus",
+            "request": "launch",
+            "mainClass": "PatternLikePlus",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "CarClass",
+            "request": "launch",
+            "mainClass": "CarClass",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "HierarchicalInheritanceExample",
+            "request": "launch",
+            "mainClass": "HierarchicalInheritanceExample",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
             "name": "rail",
             "request": "launch",
             "mainClass": "rail",
