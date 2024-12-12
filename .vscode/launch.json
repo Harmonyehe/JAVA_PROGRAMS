@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Cookieee",
+            "request": "launch",
+            "mainClass": "Cookieee",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "alphabetSquare",
+            "request": "launch",
+            "mainClass": "alphabetSquare",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "alphabetTriangle",
+            "request": "launch",
+            "mainClass": "alphabetTriangle",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
             "name": "pyramidPattern",
             "request": "launch",
             "mainClass": "pyramidPattern",

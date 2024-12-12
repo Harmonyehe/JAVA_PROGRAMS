@@ -17,25 +17,29 @@ public class pyramidPattern {
         System.out.println();
     } 
     System.out.println();
-    System.out.println("Another CAse: ");
-    if(n%2!=0){
+    System.out.println("Another Case with row digit: ");
     for(int i=1;i<=n;i++){
-        for(int j=1;j<=n;j++){
-            
-                if(i+j>=n+1){
+        for(int j=1;j<=n-i;j++){
+            System.out.print(" ");
 
-                System.out.print(" * ");
-                }else{
-                    System.out.print("   ");
-                }
-            
+        }
+        for(int j=1;j<=i;j++){
+            System.out.print(i+" ");
         }
         System.out.println();
-    }
-}     
+    } 
+    System.out.println();
+    System.out.println("Another Case with columns digit: ");
+    for(int i=1;i<=n;i++){
+        for(int j=1;j<=n-i;j++){
+            System.out.print(" ");
 
-
-
+        }
+        for(int j=1;j<=i;j++){
+            System.out.print(j+" ");
+        }
+        System.out.println();
+    } 
     sc.close();   
 }
 }
