@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "butterfly",
+            "request": "launch",
+            "mainClass": "butterfly",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "Npattern",
+            "request": "launch",
+            "mainClass": "Npattern",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "npattern",
+            "request": "launch",
+            "mainClass": "npattern",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "tables",
+            "request": "launch",
+            "mainClass": "tables",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
             "name": "Cookieee",
             "request": "launch",
             "mainClass": "Cookieee",
