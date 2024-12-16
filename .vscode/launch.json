@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinkedListNew",
+            "request": "launch",
+            "mainClass": "LinkedListNew",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "LL",
+            "request": "launch",
+            "mainClass": "LL",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListInsert",
+            "request": "launch",
+            "mainClass": "LinkedListInsert",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
             "name": "butterfly",
             "request": "launch",
             "mainClass": "butterfly",
