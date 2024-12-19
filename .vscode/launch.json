@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ThrowException",
+            "request": "launch",
+            "mainClass": "ThrowException",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "finallyException",
+            "request": "launch",
+            "mainClass": "finallyException",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionHandling",
+            "request": "launch",
+            "mainClass": "ExceptionHandling",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
             "name": "LinkedListNew",
             "request": "launch",
             "mainClass": "LinkedListNew",
