@@ -9,7 +9,7 @@ public class ThrowException {
 
     public static void main(String args[]){
         try {
-            validate(13);  // This will throw the exception
+            validate(20);  // This will throw the exception
         } catch (ArithmeticException e) {
             System.out.println(e.getMessage());  // Handle the exception
         }

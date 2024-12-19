@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Collection",
+            "request": "launch",
+            "mainClass": "Collection",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "ThrowsException",
+            "request": "launch",
+            "mainClass": "ThrowsException",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "ReverseNumber",
+            "projectName": "JAVA_a0b8761b"
+        },
+        {
+            "type": "java",
             "name": "ThrowException",
             "request": "launch",
             "mainClass": "ThrowException",
